@@ -1,0 +1,10 @@
+# Librerías principales
+requests
+beautifulsoup4
+lxml
+pandas
+numpy
+jupyter
+
+# Opcionales para scraping dinámico (instálalos si los usas)
+playwright
